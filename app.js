@@ -56,7 +56,7 @@ function FunnyFace(x,y,z){
 
 function setup() {
   createCanvas(800,810);
-  background(231,109,131,255); //this is a color in RGBA colorspace : red, green, blue and alpha (opacity)
+  background(231,5,7,255); //this is a color in RGBA colorspace : red, green, blue and alpha (opacity)
 
   for(var x=0;x<8;x++){
 
